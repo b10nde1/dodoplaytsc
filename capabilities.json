@@ -1,0 +1,7 @@
+{
+    "testDir": "./tests",
+    "browsers": [
+        "chrome"
+    ],
+    "parallel": true
+}
